@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Livia Henrique 
+## Olá, Eu sou a Livia Henrique 
  <div>
   <a href="https://github.com/liviahenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviahenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,8 +22,6 @@
   <a href="https://instagram.com/livia.henrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: livia.henrique2039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviahenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/liviahenrique/liviahenrique/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

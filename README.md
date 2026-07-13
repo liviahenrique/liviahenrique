@@ -121,7 +121,14 @@ Busco oportunidades como **Desenvolvedora Java Back-end Júnior ou Pleno**, cont
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lívia%20Henrique-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liviahenrique)
+<div> 
+  <a href="https://instagram.com/livia.henrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: livia.henrique2039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/liviahenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/liviahenrique/liviahenrique/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -139,13 +146,4 @@ Busco oportunidades como **Desenvolvedora Java Back-end Júnior ou Pleno**, cont
 </div>
  
    ##
- 
-<div> 
-  <a href="https://instagram.com/livia.henrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: livia.henrique2039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/liviahenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/liviahenrique/liviahenrique/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 

@@ -1,8 +1,7 @@
 # Olá, eu sou a Lívia Henrique! 👋
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> **— Martin Fowler**
-
+> *"Innovation distinguishes between a leader and a follower."*
+> **— Steve Jobs**
 Sou Desenvolvedora Back-end Java com experiência em desenvolvimento e sustentação de sistemas, criação de APIs REST, integração entre sistemas e análise de incidentes.
 
 Tenho paixão por resolver problemas através da tecnologia e estou sempre estudando novas ferramentas e boas práticas para construir aplicações escaláveis, performáticas e de qualidade.
@@ -93,12 +92,16 @@ Busco oportunidades como Desenvolvedora Back-end Java, contribuindo para o desen
 ---
 
 ⭐ Obrigada por visitar meu perfil!
-
-> "Innovation distinguishes between a leader and a follower."
->
-> — Steve Jobs
  
  <div style="display: inline_block"><br>
+   <img align="center" alt="Livia-Docker" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Livia-Postgresql" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Livia-Git" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Livia-Github" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Livia-Intellij" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="Livia-Maven" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+   <img align="center" alt="Livia-Spring" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Livia-Java" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Livia-Js" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-Ts" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Livia-React" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

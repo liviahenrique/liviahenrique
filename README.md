@@ -1,112 +1,81 @@
-# 👋 Olá, eu sou a Lívia Henrique
+# Olá, eu sou a Lívia Henrique! 👋
 
-💻 Desenvolvedora Back-end apaixonada por criar soluções escaláveis e de qualidade utilizando Java e Spring Boot.
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> **— Martin Fowler**
 
-Tenho experiência em desenvolvimento e sustentação de sistemas, criação e evolução de APIs REST, análise e correção de incidentes, testes unitários e integração entre sistemas. Gosto de entender o problema antes de desenvolver a solução e estou sempre buscando aprender novas tecnologias e boas práticas.
+Sou Desenvolvedora Back-end Java com experiência em desenvolvimento e sustentação de sistemas, criação de APIs REST, integração entre sistemas e análise de incidentes.
+
+Tenho paixão por resolver problemas através da tecnologia e estou sempre estudando novas ferramentas e boas práticas para construir aplicações escaláveis, performáticas e de qualidade.
 
 ---
 
-## 🚀 Tecnologias
+## 💻 No que eu trabalho
 
-### Back-end
-- ☕ Java
-- 🌱 Spring Boot
-- 🔗 APIs REST
-- 📦 Maven
-- 📄 Swagger / OpenAPI
+### ☕ Linguagens & Frameworks
 
-### Banco de Dados
-- 🐬 MySQL
-- 🐘 PostgreSQL
+- Java
+- Spring Boot
+- Spring Data JPA
+- Maven
 
-### Testes
-- ✅ JUnit 5
-- ✅ Mockito
+### 🗄️ Banco de Dados
 
-### Ferramentas
+- PostgreSQL
+- MySQL
+- H2
+
+### 🔗 APIs & Integrações
+
+- REST APIs
+- Swagger / OpenAPI
+- Postman
+
+### 🧪 Qualidade de Software
+
+- JUnit 5
+- Mockito
+- Testes Unitários
+
+### ⚙️ Ferramentas
+
 - Git
 - GitHub
 - GitLab
 - Docker
-- Postman
 - Jenkins
 - GitHub Actions
 
-### Metodologias
+### 📚 Metodologias
+
 - Scrum
 - Kanban
+- Clean Code
+- SOLID
 
 ---
 
-## 💼 Experiência
+## 🚀 Atualmente estudando
 
-Atuei como Desenvolvedora Back-end participando de:
-
-- Desenvolvimento de novas funcionalidades
-- Evolução de APIs REST
-- Correção de bugs e incidentes
-- Análise de logs
-- Integração entre sistemas
-- Desenvolvimento de testes unitários
-- Suporte técnico para aplicações críticas
-- Trabalho em equipes ágeis
-
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura de Microsserviços
+- Microsserviços
 - Docker
 - Kubernetes
 - AWS
-- Inteligência Artificial aplicada ao desenvolvimento
-- Clean Architecture
+- Arquitetura de Software
 - Design Patterns
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos
 
-### 📅 Sistema de Agendamento
-API REST para gerenciamento de clientes, serviços e agendamentos.
-
-**Tecnologias**
-- Java
-- Spring Boot
-- PostgreSQL
-- Docker
-- JUnit
-- Swagger
-
----
-
-### 💰 API Financeira
-Sistema para gerenciamento de receitas e despesas.
-
-**Funcionalidades**
-- Cadastro de receitas
-- Cadastro de despesas
-- Categorias
-- Relatórios
-- Parcelamentos
-
----
-
-### 🎫 API de Chamados
-Sistema para gerenciamento de chamados técnicos.
-
-**Funcionalidades**
-- Cadastro de chamados
-- Controle de status
-- Prioridades
-- Histórico
-- Relatórios
+- 🚀 Chamados API
+- 📅 Sistema de Agendamento *(em desenvolvimento)*
+- 💰 API Financeira *(em desenvolvimento)*
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades como **Desenvolvedora Java Back-end Júnior ou Pleno**, contribuindo com soluções de qualidade enquanto continuo evoluindo tecnicamente.
+Busco oportunidades como Desenvolvedora Back-end Java, contribuindo para o desenvolvimento de soluções escaláveis, código limpo e melhoria contínua dos produtos.
 
 ---
 

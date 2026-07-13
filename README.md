@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou a Lívia Henrique
 
-> "Innovation distinguishes between a leader and a follower."
->
-> — Steve Jobs
-
 💻 Desenvolvedora Back-end apaixonada por criar soluções escaláveis e de qualidade utilizando Java e Spring Boot.
 
 Tenho experiência em desenvolvimento e sustentação de sistemas, criação e evolução de APIs REST, análise e correção de incidentes, testes unitários e integração entre sistemas. Gosto de entender o problema antes de desenvolver a solução e estou sempre buscando aprender novas tecnologias e boas práticas.
@@ -128,6 +124,10 @@ Busco oportunidades como **Desenvolvedora Java Back-end Júnior ou Pleno**, cont
 ---
 
 ⭐ Obrigada por visitar meu perfil!
+
+> "Innovation distinguishes between a leader and a follower."
+>
+> — Steve Jobs
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Livia-Js" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

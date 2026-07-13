@@ -110,15 +110,6 @@ Busco oportunidades como **Desenvolvedora Java Back-end Júnior ou Pleno**, cont
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=liviahenrique&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviahenrique&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contato
 
 <div> 

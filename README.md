@@ -2,6 +2,7 @@
 
 > *"Innovation distinguishes between a leader and a follower."*
 > **— Steve Jobs**
+> 
 Sou Desenvolvedora Back-end Java com experiência em desenvolvimento e sustentação de sistemas, criação de APIs REST, integração entre sistemas e análise de incidentes.
 
 Tenho paixão por resolver problemas através da tecnologia e estou sempre estudando novas ferramentas e boas práticas para construir aplicações escaláveis, performáticas e de qualidade.

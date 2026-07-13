@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou a Lívia Henrique
 
+> "Innovation distinguishes between a leader and a follower."
+>
+> — Steve Jobs
+
 💻 Desenvolvedora Back-end apaixonada por criar soluções escaláveis e de qualidade utilizando Java e Spring Boot.
 
 Tenho experiência em desenvolvimento e sustentação de sistemas, criação e evolução de APIs REST, análise e correção de incidentes, testes unitários e integração entre sistemas. Gosto de entender o problema antes de desenvolver a solução e estou sempre buscando aprender novas tecnologias e boas práticas.
